@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ls_header">
+		<text>S.T.A.L.K.E.R. Anomaly 1.5.0 (BETA 3.0)</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>Consejo #</text>
+	</string>
+	<string id="ls_tip_1">
+		<text>Evita cargar con demasiado peso, te matara. Recuerda vender periodicamente los articulos adicionales que no necesita o guardarlos para usarlos en el futuro. Las mochilas compradas a los comerciantes se pueden usar como escondites.</text>
+	</string>
+	<string id="ls_tip_2">
+		<text>Cazar mutantes te dara algunas de sus partes. Ademas, obtendras carne que puedes cocinar si tienes poco dinero y no puedes comprar comida. Eso si, es necesario tener algo para reducir la radiacion despues de una comida.</text>
+	</string>
+	<string id="ls_tip_3">
+		<text>Muchos mecanicos requieren kits de herramientas basicos, avanzados y expertos para realizar ciertas mejoras en armas y atuendos. Dichos articulos a menudo se pueden encontrar en las reservas recibidas como recompensas por completar tareas.</text>
+	</string>
+	<string id="ls_tip_4">
+		<text>La falta de sueсo es una caracteristica opcional donde el paso del tiempo y el uso de consumibles agotara gradualmente al jugador, lo que eventualmente requerira que descanse cuando se le solicite. No hacerlo puede tener consecuencias nefastas.</text>
+	</string>
+	<string id="ls_tip_5">
+		<text>Las patrullas de helicopteros son una caracteristica opcional con poderosos efectos en la Zona. Cuando participan en combate, los miembros de la facciуn del helicoptero a menudo pueden solicitar apoyo aereo para ayudar a destruir las fuerzas de ataque o defensa.</text>
+	</string>
+	<string id="ls_tip_6">
+		<text>El modo Ironman da una verdadera sensacion de mortalidad. Cuando el jugador ha perdido todas sus vidas, todas las salvaciones para ese personaje especifico se eliminan y nunca se pueden restaurar. Elige tu facciуn y ubicacion de inicio sabiamente.</text>
+	</string>
+	<string id="ls_tip_7">
+		<text>Es mejor familiarizarse con los kits de costura, el aceite para armas y los tubos de pegamento: estos articulos pueden ayudarlo a mantener su equipo impecable en el campo durante mucho mas tiempo. Los kits de reparacion completos son mas potentes, pero tambien mas raros, pesados ??y costosos.</text>
+	</string>
+	<string id="ls_tip_8">
+		<text>Las mochilas se pueden comprar o encontrar y luego usar para crear un alijo personalizado. Los alijos creados por el jugador nunca se generan ni son saqueadas por otros stalkers. Son permanentes hasta que se eliminen todos los elementos.</text>
+	</string>
+	<string id="ls_tip_9">
+		<text>Los sacos de dormir son una excelente manera de descansar en la Zona si no puede encontrar una cama decente para dormir. Se pueden comprar en la mayoria de los principales comerciantes o potencialmente encontrarlos en el escondite de otro stalker.</text>
+	</string>
+	<string id="ls_tip_10">
+		<text>El Cementerio de Camiones es un gran cementerio de vehiculos agricolas, civiles y militares irradiados. Como un gran lugar para esconder un alijo, un stalker con ojos de aguila puede encontrar muchos objetos de valor entre los restos.</text>
+	</string>
+	<string id="ls_tip_11">
+		<text>Los tipos de artefactos son indicativos de las anomalias en las que se encuentran. Quiere uno que aumente su resistencia a las quemaduras? Busque una anomalia de 'Quemador' o 'Cometa' y vaya a cazar con su detector.</text>
+	</string>
+	<string id="ls_tip_12">
+		<text>Completar tareas para facciones aumentara tu buena voluntad con ellas. A medida que aumenta, sus operadores comenzaran a mostrarte sus articulos mas poderosos y a venderlos con mayores descuentos.</text>
+	</string>
+	<string id="ls_tip_13">
+		<text>El rango tiene ocho niveles diferentes y se puede aumentar a traves de casi cualquier actividad en el juego. Ciertas caracteristicas pueden requerir alcanzar un alto rango antes de que se puedan usar o desbloquear por completo.</text>
+	</string>
+	<string id="ls_tip_14">
+		<text>La mayoria de las tareas se pueden cancelar despues de que aceptes completarlas. Puede hacerlo hablando con el stalker que le dio la tarea. Solo recuerda que cancelar una tarea disminuira tu reputacion y buena voluntad.</text>
+	</string>
+	<string id="ls_tip_15">
+		<text>La reputacion es una representacion de como su facciуn ve a un stalker. Se gana y se pierde ayudando o perjudicando a los stalkers no hostiles respectivamente.</text>
+	</string>
+	<string id="ls_tip_16">
+		<text>La reputacion es dinamica y puede cambiar con frecuencia, las reputaciones disponibles son las siguientes: 'Terrible', 'Triste', 'Horrible', 'Malo', 'Neutral', 'Bueno', 'Muy Bueno', 'Brillante' y 'Excellente'.</text>
+	</string>
+	<string id="ls_tip_17">
+		<text>El Paisaje Oscuro es un gran bosque entre Cordon y Valle Oscuro. Si bien hay pocas razones para visitar, los solitarios y bandidos con una recompensa puesta en sus cabezas lo usan con frecuencia como un escondite.</text>
+	</string>
+	<string id="ls_tip_18">
+		<text>Recuerda preguntar a los stalkers regulares si tienen algun trabajo disponible. El hecho de que no sean importantes para nadie no significa que no esten dispuestos a pagarte por hacer su trabajo sucio.</text>
+	</string>
+	<string id="ls_tip_19">
+		<text>La arena de Rostok alberga dos tipos de competiciones: las peleas tradicionales donde los stalkers luchan entre si por dinero, o desafios donde intentan matar mutantes cada vez mas dificiles.</text>
+	</string>
+	<string id="ls_tip_20">
+		<text>El 'radio de exclusion en linea' se puede configurar a traves del menu de opciones del juego. Crea un area sin engendros alrededor del jugador que evita que mutantes y otros stalkers aparezcan injustamente y peligrosamente cerca.</text>
+	</string>
+	<string id="ls_tip_21">
+		<text>A Cold, Spore y al resto de los personajes principales de Cielo Despejado se les puede preguntar sobre su historia. Hacerlo puede ayudar a arrojar luz sobre la supervivencia general de su facciуn.</text>
+	</string>
+	<string id="ls_tip_22">
+		<text>Libertad ocupa por completo la estaciуn de Yanov en Jupiter despues de que Shulga se fuera para luchar contra el Resurgente Monolito. Muchos stalkers que habian abandonado Libertad anteriormente se habian unido para ayudar a reforzar su posiciуn.</text>
+	</string>
+	<string id="ls_tip_23">
+		<text>El logro 'Completionist' se recibe por desbloquear todos los otros logros disponibles. La cantidad de logros disponibles depende de tu facciуn y de si el modo historia esta habilitado.</text>
+	</string>
+	<string id="ls_tip_24">
+		<text>Es mucho mas facil evitar la detecciуn cuando se viaja durante la noche o cuando llueve mucho. Sin embargo, corre el riesgo de encontrarse con mutantes nocturnos feroces.</text>
+	</string>
+	<string id="ls_tip_25">
+		<text>Es un buen habito comparar los precios de los alimentos limpios y saludables en los cantineros y llevarlos contigo. No te olvides de conseguir algo para calmar tu sed mientras lo haces.</text>
+	</string>
+	<string id="ls_tip_26">
+		<text>Hay diferentes tipos de mochilas disponibles, algunas de ellas te permitiran llevar mas cosas sin que te graven, mientras que otras te proporcionaran algunas bonificaciones como el Kit del Cazador.</text>
+	</string>
+	<string id="ls_tip_27">
+		<text>Si las cosas se ponen demasiado dificiles para ti, puedes intentar reducir la dificultad a traves del menu de progresion. Puedes acceder a esto presionando F1 mientras estas en el menu principal despues de cargar el juego.</text>
+	</string>
+	<string id="ls_tip_28">
+		<text>Las bases de facciones generalmente tienen un medico que puede curarte y eliminar tu radiacion por una tarifa baja. Tambien puede comprar medicamentos a precios mas bajos que en otros lugares.</text>
+	</string>
+	<string id="ls_tip_29">
+		<text>Los comerciantes especialmente bien conectados te permitiran sobornar a las facciones para un alto el fuego temporal. Si el alto el fuego vale la pena o no... bueno, eso depende de ti. </text>
+	</string>
+	<string id="ls_tip_30">
+		<text>Los ecologistas nunca tienen suficientes partes mutantes, especialmente de los tipos raros. Estos podrian alcanzar un buen precio, y los cientificos podrian ayudarlo a encontrar muestras especificas por un salario aun mayor.</text>
+	</string>
+	<string id="ls_tip_31">
+		<text>Llevate siempre una linterna y considera invertir en gafas de vision nocturna, nunca se sabe cuando se encontrara de noche lejos de un lugar seguro.</text>
+	</string>
+	<string id="ls_tip_32">
+		<text>Recoge cada bala sin importar el tipo y guardala, tal vez maсana la necesites. La municiуn tambien es una buena fuente de ingresos.</text>
+	</string>
+	<string id="ls_tip_33">
+		<text>No ignores un arma solo porque no has sido entrenado especialmente con el. La municiуn es escasa, e incluso el mejor francotirador tendra que escapar rapidamente.</text>
+	</string>
+	<string id="ls_tip_34">
+		<text>Invertir en proteciуn psiquica te llevara lejos en la Zona. Por lo menos, considera tomar algunas pildoras de bloqueo psiquico, nunca se sabe cuando se encontrara con un controlador.</text>
+	</string>
+	<string id="ls_tip_35">
+		<text>Confia en tus oidos. El sonido se extiende sobre colinas y arbustos densos. Un sonido debil pero familiar puede ser todo lo que necesita para prepararse para un ataque furtivo.</text>
+	</string>
+	<string id="ls_tip_36">
+		<text>No tires tu pistola, guardela como respaldo. Ligero, facil de manejar y economico de mantener, si la cuidas, tu pistola seguramente te cuidara a ti.</text>
+	</string>
+	<string id="ls_tip_37">
+		<text>Los comerciantes te daran tareas mas dificiles a medida que ganes mas reputacion con sus facciones. A pesar de estar bien pagados, son mas peligrosos que el resto y pondran a prueba tus habilidades.</text>
+	</string>
+	<string id="ls_tip_38">
+		<text>Considera conservar algunos de los artefactos que encuentres, sus propiedades podrian abrir la puerta para obtener otros nuevos mas adelante.</text>
+	</string>
+	<string id="ls_tip_39">
+		<text>Si terminas superando en numero, intenta escapar. No solo te salvara vida, sino que tambien te ahorrara dinero y medicamentos.</text>
+	</string>
+	<string id="ls_tip_40">
+		<text>Si te disparan: manten la calma, cuenta tus balas y dispara cuando vuelvan a cargar.</text>
+	</string>
+	<string id="ls_tip_41">
+		<text>Llevate siempre algo que pueda detener el sangrado. Un medico puede reparar tus heridas a bajo costo mas tarde, pero solo si no te desangras en el camino.</text>
+	</string>
+	<string id="ls_tip_42">
+		<text>Considera usar un silenciador y ser sigiloso cuando vayas contra multiples enemigos: no te hara invisible, pero ciertamente te hara ganar algo de tiempo hasta que te vean.</text>
+	</string>
+	<string id="ls_tip_43">
+		<text>Barbas paga una cantidad decente por los artefactos, quizas mas que otros comerciantes, aparte de los ecologistas. Considere visitar al Skadovsk de vez en cuando.</text>
+	</string>
+	<string id="ls_tip_44">
+		<text>Ir a la caza de artefactos sin el equipo adecuado es suicidio. Asegurese de llevar su detector y algunos contenedores con revestimiento de plomo junto con una proteciуn anomala adecuada, capacidad de carga y medicamentos.</text>
+	</string>
+	<string id="ls_tip_45">
+		<text>Estar prevenido vale por dos. Reune informaciуn antes de continuar.</text>
+	</string>
+	<string id="ls_tip_46">
+		<text>Si se enfrenta a un controlador, intenta hacer que un objeto bloquee tu linea de vision (arbol, roca, pared). Si no te ve, no puede controlarte.</text>
+	</string>
+	<string id="ls_tip_47">
+		<text>Su mejor medio de defensa contra mutantes son otros stalkers.</text>
+	</string>
+	<string id="ls_tip_48">
+		<text>Los packs de estimulantes son bastante utiles. Te sanaran mucho mas rapido que los botiquines.</text>
+	</string>
+	<string id="ls_tip_49">
+		<text>Usar un casco afecta tus capacidades en carrera.</text>
+	</string>
+	<string id="ls_tip_50">
+		<text>Manten un arma secundaria en la que confies si te quedas sin municiуn para tu primaria. Las pistolas son las amigas cercanas de un stalker, pero una escopeta recortada tambien puede marcar la diferencia.</text>
+	</string>
+	<string id="ls_tip_51">
+		<text>Cuida tu carga de peso cuando busques artefactos. Incluso podrias dejar algunas de tus cosas en una mochila antes de entrar en un area anomala y recogerlas mas tarde.</text>
+	</string>
+	<string id="ls_tip_52">
+		<text>La Radio RF lo ayudara a encontrar cosas lejanas y escondidas. Puede cambiar la frecuencia de la radio a traves de LMB, RMB y Shift LMB / RMB mientras tiene la otra mano libre.</text>
+	</string>
+	<string id="ls_tip_53">
+		<text>A pesar de su actitud agresiva hacia los stalkers, se puede sobornar a los militares para que miren hacia otro lado por un tiempo.</text>
+	</string>
+	<string id="ls_tip_54">
+		<text>Manten tu equipo para que pueda mantenerte a ti.</text>
+	</string>
+	<string id="ls_tip_55">
+		<text>Para mover pilas completas de articulos hacia/desde su inventario, mantenga presionada la tecla CTRL y presione doble clic.</text>
+	</string>
+	<string id="ls_tip_56">
+		<text>Usar municiуn vieja degradara tu arma mas rapido a largo plazo. No lo tires, sin embargo, ya que podria salvarte en un apuro.</text>
+	</string>
+	<string id="ls_tip_57">
+		<text>Recuerda de verificar los PDA de los stalkers fallecidos, puedes obtener informaciуn util de ellos. Si no puedes acceder a ellos, puedes intentar pedirle a alguien experto en tecnologia que lo abra por ti.</text>
+	</string>
+	<string id="ls_tip_58">
+		<text>Puedes acceder al menu de detalles de un elemento haciendo clic derecho sobre el. Esta ventana de detalles mostrara una descripcion del articulo, su durabilidad y, en el caso de armas y atuendos, sus posibles actualizaciones con los articulos que requieren.</text>
+	</string>
+	<string id="ls_tip_59">
+		<text>Al reparar armas muy daсadas, los tecnicos son una opcion costosa. Obtener piezas de repuesto funcionales de armas gastadas puede ahorrarte algo de dinero si decides repararlas tu mismo.</text>
+	</string>
+	<string id="ls_tip_60">
+		<text>Escucha los sonidos de las anomalias: tu sentido del oido a veces puede indicar mejor la posiciуn de una anomaloa que tu vista.</text>
+	</string>
+	<string id="ls_tip_61">
+		<text>Usa minas para preparar emboscadas. Funcionan mejor cuando se usan de manera creativa, como atraer a tus enemigos hacia ellos o usarlos para enviar un objetivo mientras estas encubierto.</text>
+	</string>
+	<string id="ls_tip_62">
+		<text>Siempre lleve drogas como botiquines, psicobloqueos o anabioticos, para que no comience una emision y no haya refugio cerca. Es posible que no lo protejan por completo, pero tal vez, solo tal vez le permitan llegar a un lugar seguro antes de que lo asen.</text>
+	</string>
+	<string id="ls_tip_63">
+		<text>La municiуn es una mercancia en la zona. Comienza a recoger municiуn para armas que generalmente no usas y podrias ahorrar algunos rublos a la larga. Incluso si es viejo, puedes usarlo como esta o hacer municiones pristinas con kits de armero.</text>
+	</string>
+	<string id="ls_tip_64">
+		<text>Llevate lo menos posible al salir, para que puedas recoger mas cosas y venderlas a los comerciantes cuando regreses.</text>
+	</string>
+	<string id="ls_tip_65">
+		<text>Ten tu detector de artefactos fuera con la mayor frecuencia posible. A veces aparecen artefactos despues de las tormentas psi.</text>
+	</string>
+	<string id="ls_tip_66">
+		<text>La opcion de reparaciones retrasadas en el menu de opciones del juego requiere que dejes tu equipo en manos del tecnico durante un cierto tiempo hasta que se arregle. Esa es otra buena razon para repararlos tu mismo.</text>
+	</string>
+	<string id="ls_tip_67">
+		<text>Ser un stalker escandaloso y traicionero puede ser economicamente gratificante, pero eventualmente aquellos que te odian querran deshacerse de ti. Incluso seras cazado mientas duermes.</text>
+	</string>
+	<string id="ls_tip_68">
+		<text>El logro de "Guerra Mecanizada" se obtiene al entregar los tres juegos de herramientas a un tecnico. Despues de la finalizacion, los articulos utilizados al reparar su equipo seran mas efectivos.</text>
+	</string>
+	<string id="ls_tip_69">
+		<text>Algunos stalkers de la vieja escuela llevan notas en papel en lugar de escribirlas en sus PDA. Puede valer la pena leerlos, incluso podrias aprender algo de ellos.</text>
+	</string>
+	<string id="ls_tip_70">
+		<text>Cada dispositivo usa su propio conjunto de baterias. Siempre que estos se queden sin poder, tendras que sacarlos y poner otros nuevos. Esto se puede hacer haciendo clic derecho en cada dispositivo en el inventario.</text>
+	</string>
+	<string id="ls_tip_71">
+		<text>Recuerda los sonidos emitidos por mutantes. Saber lo que te esta sucediendo hace que sea mas facil lidiar con la situacion de la mejor manera posible.</text>
+	</string>
+	<string id="ls_tip_72">
+		<text>Siempre lleva un cargador de balas perforantes para cualquier arma que tengas. Los mutantes pueden no usar armadura, pero los stalkers hostiles si.</text>
+	</string>
+	<string id="ls_tip_73">
+		<text>Existen alternativas mas baratas al medicamento antirradiacion. Algunos de ellos tienen efectos secundarios poderosos, asi que trata de evitar conflictos cada vez que tomes algunos.</text>
+	</string>
+	<string id="ls_tip_74">
+		<text>Incluso el soldado mas apto morira rapidamente por el agotamiento si pasan el dia haciendo nada mas que pelear batallas campales y correr maratones. Es mejor atender las necesidades de un personaje hambriento o sediento tan pronto como sea posible.</text>
+	</string>
+	<string id="ls_tip_75">
+		<text>Cuando intentes acercarte sigilosamente a alguien o algo, acuerdate de apagar la linterna.</text>
+	</string>
+	<string id="ls_tip_76">
+		<text>Mantente sano. Si puedes, evita las drogas, coma alimentos limpios, bebe agua purificada y duerme regularmente.</text>
+	</string>
+	<string id="ls_tip_77">
+		<text>Las herramientas se desgastan por el uso. Algunos de ellos, como los cuchillos, pueden repararse. Sin embargo, la mayoria de ellos no pueden, asi que tenga a mano los de repuesto.</text>
+	</string>
+	<string id="ls_tip_78">
+		<text>Examina un area cuidadosamente antes de pasar. Descubrir a un chupasangre antes de que te vea seguramente te salvara la vida.</text>
+	</string>
+	<string id="ls_tip_79">
+		<text>Cuando estes solo y frente a un solo oponente consciente, ponte a cubierto. El mejor momento para comenzar a disparar es cuando ellos hayan terminado de disparar.</text>
+	</string>
+	<string id="ls_tip_80">
+		<text>Vigila el estado de energia de tus dispositivos y siempre ten baterias decentes en tu bolsillo. No dejes que tu PDA se quede sin energia en un momento inoportuno.</text>
+	</string>
+	<string id="ls_tip_81">
+		<text>Si la opcion "Pernos limitados" esta activada, es posible que eventualmente se agote. Para obtener mas, puedes visitar a los comerciantes y obtener paquetes de tornillos, o utilizar municiуn vieja para casquillos de bala que funcionan bien.</text>
+	</string>
+	<string id="ls_tip_82">
+		<text>El contador Geiger tiene tres modos diferentes: activo, que muestra valores al mantenerlo; continuo, que muestra los valores siempre que esten en su inventario; alternar, que muestra valores al presionar una tecla mientras esta en su inventario.</text>
+	</string>
+	<string id="ls_tip_83">
+		<text>Los kits de fabricacion de medicamentos se utilizan para elaborar su propia medicina utilizando objetos que de otro modo tirarias y ahorrarias dinero en el proceso.</text>
+	</string>
+	<string id="ls_tip_84">
+		<text>Los juegos de herramientas de armero se pueden usar para reutilizar municiуn vieja y piezas de municiуn para hacer balas nuevas y mas efectivas.</text>
+	</string>
+	<string id="ls_tip_85">
+		<text>Algunos comerciantes estan dispuestos a comprar PDA que obtienes de otros stalkers. Cuantos mas PDA entregues, mayor sera el pago que recibiras despues de desbloquear el logro "Infopreneur".</text>
+	</string>
+	<string id="ls_tip_86">
+		<text>Obtendras acceso al mejor equipo que la facciуn de un comerciante pueda ofrecer despues de que les hayas demostrado tu valia. Estas ofertas especiales tambien son para aquellos que han completado el logro "Bolsillos Pesados".</text>
+	</string>
+	<string id="ls_tip_87">
+		<text>Puedes tocar instrumentos musicales usandolos en tu inventario.</text>
+	</string>
+	<string id="ls_tip_88">
+		<text>Si necesitas llegar a algun lugar pero no puedes averiguar como, intenta preguntar a un comerciante.</text>
+	</string>
+	<string id="ls_tip_89">
+		<text>Los guias generalmente se pueden encontrar en bares o en la base de una facciуn. Estos guias pueden llevarte a cualquier lugar de forma segura por un precio.</text>
+	</string>
+	<string id="ls_tip_90">
+		<text>Aslan, el tabernero mercenario en Ciudad de los Muertos, tiene una "loteria" en la que puedes participar. Todo lo que necesitas es recolectar y entregar los parches de otros stalkers.</text>
+	</string>
+	<string id="ls_tip_91">
+		<text>Los tecnicos siempre necesitan nuevas piezas de armas para trabajar. Puedes venderles tus repuestos por dinero rapido, pero no esperes hacer una fortuna con ellos.</text>
+	</string>
+	<string id="ls_tip_92">
+		<text>Por mil rublos, puedes pagarle a un tecnico para que uses su banco de trabajo y el tornillo de banco para arreglar tus propias armas.</text>
+	</string>
+	<string id="ls_tip_93">
+		<text>Si eres lo suficientemente respetado entre los miembros de una facciуn, puedes convencer a algunos para que se unan a ti en tus expediciones. A partir de ahi, seras responsable de ellos, por lo que si algo malo les sucediera, estarias mal visto.</text>
+	</string>
+	<string id="ls_tip_94">
+		<text>De manera predeterminada, el boton central del mouse es una tecla de acceso rapido para dar ordenes a tus companeros.</text>
+	</string>
+	<string id="ls_tip_95">
+		<text>Para desmontar atuendos y armas, necesitaras una herramienta especial que puedes adquirir de los comerciantes.</text>
+	</string>
+	<string id="ls_tip_96">
+		<text>Contrariamente a la creencia popular, usar una mascara de gas no te impedira comer o beber..</text>
+	</string>
+	<string id="ls_tip_97">
+		<text>No hay verguenza en usar el boton F9 cuando las cosas van mal.</text>
+	</string>
+	<string id="ls_tip_98">
+		<text>Eres mas facil de matar cuando dejas de moverte. No. Pares. Muevete. Constantemente.</text>
+	</string>
+	<string id="ls_tip_99">
+		<text>Sigue atento stalker, la muerte siempre esta cerca. Si lo ves, apunta a la cabeza.</text>
+	</string>
+	<string id="ls_tip_100">
+		<text>Moriras en una semana si no comes. Pero puedes morir en cuestion de segundos si una bala te golpea. Siempre manten tu traje en buenas condiciones para que puedas vivir un poco mas.</text>
+	</string>
+	<string id="ls_tip_101">
+		<text>No dudes en consultar la guia en su PDA. Puedes encontrar una cura para tu confusion.</text>
+	</string>
+</string_table>

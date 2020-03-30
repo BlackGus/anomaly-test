@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_mutants">
+		<text>Mutantes</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_blind_dog">
+		<text>Perro ciego</text>
+	</string>
+	<string id="encyclopedia_mutants_blind_dog_text">
+		<text>
+			Los %c[pda_white]Perros ciegos%c[ui_gray_1] son el familiar mбs representativo familiar de la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nVarias generaciones de perros han vivido y muerto desde la segunda catбstrofe, cada una de ellas mбs afectada por la Zona que la anterior.\n \nNumerosas mutaciones rбpidas y adaptaciones evolutivas han llevado al fortalecimiento de habilidades caninas anteriormente expresadas - a expensas de aquellos que comparten su hбbitat.\n \nLa visiуn y el oнdo de muchos de estos perros se ha perdido completamente, pero desde entonces han desarrollado una especie de visiуn telepбtica que les permite sentir a su presa a travйs de las paredes.\n \nComo sus antepasados lobos, los perros ciegos cazan en manada, y un encuentro con un grupo grande puede ser peligroso incluso para los mejor armados y experimentados stalkers.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Bajo\n-Velocidad: Rбpido\n-Rasgos: Ninguno
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_bloodsucker">
+		<text>Chupasangre</text>
+	</string>
+	<string id="encyclopedia_mutants_bloodsucker_text">
+		<text>
+			Los %c[pda_white]Chupasangres%c[ui_gray_1], como su nombre indica, son monstruos hemуfagos.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nEl chupasangre es una criatura semi-legendaria, a menudo vista por los stalkers como un sнmbolo tanto de los peligros como de la corrupciуn de la Zona.\n \nEste estatus se ha logrado gracias a la relativa rareza de la especie y a la baja tasa de supervivencia de sus vнctimas.\n \nAquellos que los han encontrado y han vivido para contarlo, los han descrito como altos humanoides encorvados con muchos tentбculos que sobresalen de sus rostros.\n \nQuizбs su habilidad mбs peculiar es su camuflaje уptico, que les permite hacerse temporalmente casi invisibles a simple vista.\n \nTнpicamente esto no durarб mucho tiempo, ya que son mбs dйbiles cuando estбn camuflados y a menudo sуlo lo usan cuando descubren una presa o tratan de ocultar sus movimientos.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Rбpido\n-Rasgos: Camuflaje, Chupasangre\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Una rara subespecie existiу hace un tiempo en el Gran Pantano, esta arrastraba a sus vнctimas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_boar">
+		<text>Jabalн</text>
+	</string>
+	<string id="encyclopedia_mutants_boar_text">
+		<text>
+			Los %c[pda_white]Jabalнes%c[ui_gray_1] son un mutante comъn que se encuentra en la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nAunque menos afectados fisicamente por las mutaciones, los jabalнes aquн han desarrollado un serio gusto por la carne humana y una inteligencia mucho mбs aguda.\n \nSon animales grandes, y su habilidad para sobrevivir y su agresividad sobrepasa a todos sus parientes vivos fuera de la Zona.\n \nLos procesos mutagйnicos han jugado una parte significativa en la formaciуn de estos mamнferos, ya que han perdido todo el pelaje en algunos lugares, y han crecido un largo y cerdoso pelaje en otros.\n \nNormalmente, si se mantiene la distancia y no son antagonistas, se quedarбn con una manada de 'Carnes' y otros jabalнes.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Ninguno
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_burer">
+		<text>Quemador</text>
+	</string>
+	<string id="encyclopedia_mutants_burer_text">
+		<text>
+			Los %c[pda_white]Quemadores%c[ui_gray_1] son monstruos fornidos, casi enanos, que normalmente se adhieren a las zonas subterrбneas.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nSon criaturas humanoides de complexiуn hipertrofiada, vestidas con jirones de monos desgastados y generalmente le temen a las luces brillantes.\n \nCreados como resultado de experimentos genйticos con criminales, los quemadores poseen naturalmente poderosas habilidades telequinйticas, lo que los hace mucho mбs poderosos de lo que parecen.\n \nAl ser capaces de dirigir explosiones de energнa y manipular objetos fнsicos con su mente, luchar contra los quemadores puede ser difнcil incluso cuando se intenta esconderse de ellos.\n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo, Psнquico\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Poderes psнquicos, Telequinesis\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Algunos quemadores son excelentes imitadores, capaces de imitar sonidos como el llanto de los pбjaros, el ladrido de los perros, la risa humana o incluso el llanto de un niсo. \n-Los quemadores a menudo se centran en derrotar a sus oponentes, desgastбndolos. Los stalkers fuertemente armados y blindados tienden a sufrir mбs cuando luchan contra ellos. \n-La dieta de un quemador tiende a consistir en kimchi y carne humana.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_cat">
+		<text>Gato</text>
+	</string>
+	<string id="encyclopedia_mutants_cat_text">
+		<text>
+			Los %c[pda_white]Gatos%c[ui_gray_1] en la Zona han mutado radicalmente de los gatos salvajes locales.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nOriginalmente mascotas ordinarias, bajo la influencia de la Zona han cambiado notablemente, volviйndose muy peligrosos incluso para las personas.\n \nEn la mayorнa de los casos los gatos viven solos en un pequeсo grupo de dos o tres individuos, y tнpicamente viven en lugares tranquilos y aislados como los matorrales del bosque.\n \nA menudo cuando atacan, los primeros tratan de distraer a su presa mientras que el resto se escabullen y tratan de cortar y morder, hasta que la vнctima se cansa y/o se desangra.\n \nSi estбn solos, se comportan de forma bastante cobarde, pasando mucho tiempo acechando a su objetivo y acosбndolo hasta encontrar una buena oportunidad para atacar.\n \n%c[pda_blue]Estadнsticas \n-Ataques: Cuerpo a cuerpo\n-Salud: Bajo\n-Velocidad: Rбpido\n-Rasgos: Ninguno.\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Los gatos son una causa de muerte sorprendentemente frecuente entre los stalkers nuevos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_chimera">
+		<text>Quimera</text>
+	</string>
+	<string id="encyclopedia_mutants_chimera_text">
+		<text>
+			Las %c[pda_white]Quimeras%c[ui_gray_1] son monstruos sin pelo, del tamaсo de un leуn adulto maduro.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nUna mбquina asesina casi perfecta en su evoluciуn, aunque no es fнsicamente la mбs fuerte, lo compensan con su extrema velocidad y agresividad.\n \nCon un conjunto duplicado de уrganos, sin sistema circulatorio central, y todo su cuerpo impregnado de capilares, la quimera puede fбcilmente obviar el fallo de un уrgano y la pйrdida masiva de sangre.\n \nSu segunda cabeza le permite un campo de visiуn aъn mбs amplio, sus patas traseras le permiten saltar enormes distancias, y sus afiladas garras y dientes pueden atravesar prбcticamente cualquier armadura corporal.\n \nSon criaturas nocturnas, por lo que normalmente no se verбn muchas de ellas durante el dнa ya que estarбn descansando, pero eso no lo descarta como una posibilidad.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Alta\n-Velocidad: Rбpido\n-Rasgos: Бgilidad, Regeneraciуn\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Aunque son bastante resistentes a las balas, las quimeras son notablemente vulnerables a las anomalнas quнmicas y tйrmicas. \n-Aunque generalmente son criaturas solitarias, no es inaudito que las quimeras cazen en pareja. \n-Dos quimeras especialmente poderosas mantuvieron a Zaton y Yanov aterrorizados durante 2012. Ambas fueron eventualmente cazadas y asesinados por un stalker llamado Alexander.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_controller">
+		<text>Controlador</text>
+	</string>
+	<string id="encyclopedia_mutants_controller_text">
+		<text>
+			Los %c[pda_white]Controladores%c[ui_gray_1] son algunos de los mutantes psнquicos mбs peligrosos de la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nExteriormente parecido a un ser humano con una cabeza desproporcionadamente grande, un controlador es capaz de influenciar y a menudo controlar directamente las acciones de otro ser vivo. A diferencia de otros mutantes psнquicos, un controlador no manipularб objetos fнsicos, sino que lucharб con su cerebro -en un sentido muy literal - a menudo tomando a sus enemigos por sorpresa y confundiendolos.\n \nEl controlador ataca principalmente dirigiendo un flechazo psнquico, lo que causa graves daсos en el cerebro de su receptor, mientras que la exposiciуn pasiva al mutante puede llevar finalmente al suicidio o a la zombificaciуn. Se cree ampliamente que sуlo pueden atacar lo que pueden ver, por lo que hacer un buen uso de las coberturas para ocultarse de su vista podrнa marcar la diferencia en el resultado de la lucha contra esta criatura.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo, Psнquico\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Daсo pasivo, Poderes psнquicos, Control mental
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_crow">
+		<text>Cuervo</text>
+	</string>
+	<string id="encyclopedia_mutants_crow_text">
+		<text>
+			Los %c[pda_white]Cuervos%c[ui_gray_1] son una de las pocas especies de aves que han sobrevivido en la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nPara no perecer en un laberinto de anomalнas gravitacionales, los pilotos militares utilizan sofisticados detectores, pero el secreto de cуmo los cuervos navegan con seguridad por los cielos de la Zona sigue siendo un misterio. Poco mбs se sabe sobre lo que hace a los cuervos de la Zona tan especiales, o por quй han permanecido casi completamente intactos en comparaciуn con el resto de la vida silvestre local.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Ninguno\n-Salud: Bajo\n-Velocidad: Rбpido\n-Rasgos: Ninguno
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_flesh">
+		<text>Carne</text>
+	</string>
+	<string id="encyclopedia_mutants_flesh_text">
+		<text>
+			Los %c[pda_white]Carnes%c[ui_gray_1] son cerdos muy mutados y uno de los mutantes mбs inofensivos de la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nComo muchas otras criaturas que viven en la Zona, los cerdos domйsticos sufrieron serias mutaciones despuйs del segundo desastre, afectando a los genes responsables de su metabolismo. Esto eventualmente causу que el fenotipo del animal cambiara significativamente, sus extremidades delanteras se han convertido en patas como las de un insecto que los Carnes usan para desenterrar raнces y desgarrar carroсa, mientras que sus cuerpos se han vuelto extremadamente hinchados y grasientos. Sin embargo, son en su mayorнa inofensivos, y generalmente huirбn de un stalker si uno se acerca, a menos que la criatura sea atacada o acorralada y no tenga ningъn otro lugar a donde correr.\n \n%c[pda_blue]Estadнsticas %c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Ninguno
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_fracture">
+		<text>Fracturado</text>
+	</string>
+	<string id="encyclopedia_mutants_fracture_text">
+		<text>
+			Los %c[pda_white]Fracturados%c[ui_gray_1] son antiguos, aparentemente seres humanos evolucionados con una mentalidad animalista.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nA diferencia de otros humanoides mutantes, los Fraturados han conservado una apariencia bastante familiar, pareciendo un viejo jorobado con ropa andrajosa, a pesar de tener mбs de dos metros de altura.\n \nNo se sabe mucho sobre estas criaturas. Se cree que eran antiguos residentes que vivнan ilegalmente en la zona antes del segundo desastre, o bien sujetos de pruebas tempranas involucrados en la experimentaciуn genйtica.\n \nSus brazos hipertrofiados y sus manos hinchadas frenan a la criatura, pero tambiйn actъan como palos que son capaces de derribar fбcilmente a hombres adultos con muy poco esfuerzo.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Ninguno\n \n%c[pda_yellowTrivia%c[ui_gray_1] \n-A veces piden ayuda cuando ven a los stalkers. Es ambiguo si estбn llamando a sus compaсeros mutantes, o a los stalkers mismos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_karlik">
+		<text>Karlik</text>
+	</string>
+	<string id="encyclopedia_mutants_karlik_text">
+		<text>
+			Los %c[pda_white]Karliks%c[ui_gray_1] son mutantes enanos muy raros que se esconden en el aislamiento.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nNo estб claro si estбn o no relacionados con los Quemadores, pero entre ellos comparten muchas similitudes psнquicas, lo que hace difнcil descartarlos como mera coincidencia.\n \nEn las pocas y raras ocasiones en las que se han observador, se ve a los karliks cautivados por ciertos lugares o artefactos, como si se hubieran encargado su responsabilidad, procediendo a atacar cualquier cosa que se acerque demasiado. Apenas se sabe nada mбs de ellos, ya que la mayorнa de los que se han encontrado directamente con las criaturas a menudo son encontrados muertos o locos sin lesiones fнsicas perceptibles.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo, Psнquico\n-Salud: Promedio\n-Velocidad: Lento\n-Rasgos: Daсo pasivo, Proyecciуn fantasma, Poderes psнquicos, Telequinesis\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Aunque a menudo se compara con el Quemador, el Karlik se centra mбs en las ilusiones y la telepatнa que en la telequinesis. \n-Si se acepta que los Karliks y los Quemadores eran creaciones de laboratorio, la primera era probablemente una iteraciуn anterior de la segunda.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="encyclopedia_mutants_poltergeist_text">
+		<text>
+			Los %c[pda_white]Poltergeists%c[ui_gray_1] son criaturas extraсas, casi invisibles, que acechan en las profundidades de la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nSobrenatural a los ojos de algunos, y generalmente se encuentran acechando viejos edificios abandonados.\n \nNo se sabe nada sobre su origen, aunque los rumores y las leyendas afirman que son los espнritus de los stalkers golpeados por una enorme rбfaga de radiaciуn.\n \nSus misteriosas apariciones y desapariciones parecen corresponder a la leyenda del poltergeist, de ahн su nombre, ya que intentarбn levantar y lanzarle objetos pesados.\n \nDesafortunadamente, toda la informaciуn sobre el fenуmeno de los poltergeist se origina en historias poco claras y contradictorias de dudosa validez.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Psнquico\n-Salud: Promedio\n-Velocidad: Promedio\n-Rasgos: Poderes psнquicos, Telequinesis\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Los stalkers veteranos reportan poltergeists dejando ocasionalmente un cuerpo atrбs. Los stalkers novatos no tienden a creerles.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudodog">
+		<text>Seudoperro</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudodog_text">
+		<text>
+			Los %c[pda_white]pseudoperros%c[ui_gray_1] son mutantes caninos relativamente comunes.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nA pesar de su nombre, los pseudoperros no proceden de los perros, sino de los lobos que vivнan en los bosques de la Zona en el momento del segundo desastre.\n \nEstrictamente hablando, no queda mucho del lobo en el Pseudoperro, su cabeza es mбs redonda, con enormes pero no muy prominentes mandнbulas, armadas con numerosos y enormes dientes que crecen a lo largo de la mandibula del animal.\n \nLos Pseudoperros se ven a menudo junto con los perros ciegos, aunque son mucho mбs rбpidos, fuertes y agresivos que sus parientes ciegos. Tambiйn son viciosamente territoriales y no dudarбn en atacar a los intrusos.\n \nSus poderosos mъsculos y su esqueleto reformado le permiten a este monstruo moverse con una velocidad increнble y dar enormes y rбpidos saltos, lo que le permite ser mucho mбs бgil que la mayorнa de los otros animales de su especie.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n\n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Rбpido\n-Rasgos: Agilidad
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogeist">
+		<text>Seudogeist</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogeist_text">
+		<text>
+			Los%c[pda_white]pseudogeists%c[ui_gray_1] son una rara subespecie de los Poltergeists\n \n%c[pda_green]IInformaciуn%c[ui_gray_1] \nEsencialmente no se sabe nada sobre estas criaturas, ya que son de reciente apariciуn y no han estado presentes el tiempo suficiente para documentarlas.\n \nApareciendo como una pulsante serie de nubes color borgoсa, intentarбn matar cualquier cosa lo suficientemente desafortunada como para vagar en ellas.\n \nNo hay lugares especнficos en los que se encuentren, ya que tienden a aparecer en los lugares mбs insospechados. Al morir, explotan en mъltiples formaciones de nubes antes de disiparse\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Psнquico\n-Salud: Promedio\n-Velocidad: Promedio\n-Rasgos: Poderes Psнquicos\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pseudogiant">
+		<text>Seudogigante</text>
+	</string>
+	<string id="encyclopedia_mutants_pseudogiant_text">
+		<text>
+			Los %c[pda_white]Seudogigantes%c[ui_gray_1] son uno de los mutantes mбs raros y temibles de la Zona.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nA diferencia de otros mutantes humanoides, el seudogigante ha desarrollado una fuerza increнble y puede soportar una cantidad inhumana de castigo antes de sucumbir a sus heridas y morir.\n \nUn par de extremidades desproporcionadamente grandes y unos ataques fнsicos increнblemente poderosos le permiten devastar cualquier cosa que sea lo suficientemente desafortunada como para acercarse a йl, siendo capaz de crear ondas de choque que lanzan objetos simplemente golpeando sus enormes pies.\n \nA pesar de su resistencia, parecen ser mбs territoriales que ofensivos, normalmente no persiguen un objetivo a mбs de una corta distancia antes de abandonar la persecuciуn y retroceder\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Muy alta velocidad\n-Velocidad: Lento\n-Rasgos: Fuerza Inmensa \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Curiosamente, la mayorнa de los seudogigantes - aunque son territoriales - se encuentran entre los mutantes menos agresivos de la Zona. Para el stalker promedio, sin embargo, eso realmente no dice mucho.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psydog">
+		<text>Pseudoperro psнquico</text>
+	</string>
+	<string id="encyclopedia_mutants_psydog_text">
+		<text>
+			Los%c[pda_white]pseudoperro psiquicos%c[ui_gray_1] son una subespecie rara de pseudoperro que poseen habilidades psнquicas ъnicas.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nLa caracterнstica mбs distintiva del Pseudoperro psiquico es su capacidad de afectar a las mentes de los demбs, donde es capaz de crear imбgenes aparentemente vivas de sн mismo. Estos son diferentes de los fantasmas normales producidos por los campos psнquicos y algunos otros mutantes, ya que parecen mбs reales y sуlidos y pueden - al menos para la mente - daсar lo que atacan. Visualmente son casi indistinguibles de los Pseudoperros aparte de tener grandes rayas de pelo gris/blanco\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo, Psнquico\n-Salud: Promedio\n-Velocidad: Rбpido\n-Rasgos: Бgil, Proyecciуn fantasma
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_pyrogeist">
+		<text>Pirogeno</text>
+	</string>
+	<string id="encyclopedia_mutants_pyrogeist_text">
+		<text>
+			Los%c[pda_white]pirogeos%c[ui_gray_1] son una subespecie pirocinйtica rara de los poltergeists.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nAparecen como una forma flotante de neblina de calor rodeada de un brillo ardiente, y se distinguen fбcilmente de los poltergeists normales. Al morir, explotan en una masa de sangre y fuego.\n \nSu principal y ъnico ataque es el de generar columnas de fuego, similares a las anomalнas de los quemadores, que usarб para intentar quemar a sus enemigos hasta la muerte ya que carece de cualquier habilidad telequinйtica\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Psнquico (Termal)\n-Salud: Promedio\n-Velocidad: Promedio\n-Rasgos: Poderes psнquicos
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_rat">
+		<text>Rata</text>
+	</string>
+	<string id="encyclopedia_mutants_rat_text">
+		<text>
+			Las %c[pda_white]ratas%c[ui_gray_1] son pequeсos roedores hambrientos que se encuentran en y alrededor de edificios desiertos.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nLa mayorнa de las veces se encuentran en manadas, y en raros casos solas, las ratas son la constante compaсera del hombre - en los lugares que la gente deja atrбs las ratas pronto los reemplazarбn.\n \nLas ratas son criaturas muy inteligentes e intentarбn atacar a la vнctima desde diferentes бngulos; victimas que cuando estбn rodeadas por todos lados tienen muy pocas posibilidades de sobrevivir.\n \nNormalmente viven en lugares abandonados y se dice que sienten el peligro y lo evitan cuidadosamente.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Bajo\n-Velocidad: Promedio\n-Rasgos: Ninguno\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Fбcilmente el mutante mбs inofensivo de la Zona, generalmente son cazados por su carne, mбs que por el peligro que representan.\n-Las ratas son el primo mбs dйbil, menos agresivo y obviamente menos mutado del Tushkano.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_snork">
+		<text>Snorkel</text>
+	</string>
+	<string id="encyclopedia_mutants_snork_text">
+		<text>
+			Los%c[pda_white]Snork%c[ui_gray_1] son soldados y stalkers horriblemente mutados.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nEstas criaturas fueron una vez personas, ya que todavнa llevan los restos andrajosos de sus uniformes, aunque es difнcil imaginar quй condiciones podrнan llevar a una persona a este estado.\n \nLos snorkels llevan una forma de vida completamente animal. Se mueven en las cuatro extremidades, rebotando en el suelo, y estбn constantemente olfateando el aire para captar el olor de su prуxima comida.\n \nCazan con inteligencia y prudencia, esperando a los stalkers como animales depredadores. Los reflejos de rayo y los mъsculos hipertrofiados permiten a los snorkels hacer saltos largos y precisos y en pocos segundos hacen trizas a sus vнctimas.\n \n%c[pda_blue]Estadisticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Rбpido\n-Rasgos: Бgiles\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Originalmente se pensу que eran desafortunados sobrevivientes de las primeras expediciones militares a la Zona, su continua presencia en 2018 ha dado pie a oscuras hipotesis y especulaciones sobre su verdadera naturaleza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_tushkano">
+		<text>Tushkano</text>
+	</string>
+	<string id="encyclopedia_mutants_tushkano_text">
+		<text>
+			Los %c[pda_white]Tushkanos%c[ui_gray_1] son pequeсas criaturas parecidas a ratas que se mueven sobre sus dos patas traseras.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nSu nombre se refiere al roedor dipodidae, llamado tushkanchikovye en ruso, que se mueve de manera muy similar.\n \nA pesar de su comportamiento, se cree que el Tushkano se originу de ratas entrenadas y domesticadas con las que se experimentу antes del segundo desastre.\n \nViven principalmente en edificios en ruinas, alimentбndose de todo lo que pueden atrapar - tanto mutantes como stalkers - y a menudo en grupos de hasta diez individuos. Al igual que las ratas, tambiйn son criaturas muy inteligentes y atacarбn a sus vнctimas por todos lados, y debido a su pequeсa estatura pueden abrumar rбpidamente a la mayorнa de las presas cuando trabajan juntas.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Bajo\n-Velocidad: Rбpido\n-Rasgos: Ninguno
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_zombie">
+		<text>Zombi</text>
+	</string>
+	<string id="encyclopedia_mutants_zombie_text">
+		<text>
+			Los %c[pda_white]zombis%c[ui_gray_1] son stalkers que han sido reducidos a sus reflejos mбs bбsicos.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nA diferencia del nombre sugerirнa que estos zombis no son en realidad no-muertos, sino sуlo cбscaras sin conciencia de los que solнan ser.\n \nEstas criaturas son la etapa final de deterioro para un ser humano despuйs de la exposiciуn a poderosos psico-campos, habiendo perdido incluso la capacidad de operar herramientas y armamento bбsicos.\n \nComo resultado de estos cambios, los zombis no son mбs que lentos semicuerpos, para los que sуlo hay dos estнmulos efectivos: la comida y el sueсo. Debido al hecho de que la mayorнa son asesinados mucho antes de llegar a esta fase, este mutante puede ser un descubrimiento algo raro en la Zona.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Baja\n-Velocidad: Lento\n-Rasgos: Ninguna\n \n%c[pda_yellow]Trivia%c[ui_gray_1] \n-Una verdadera tragedia, lo mejor es sacar a estos pobres tontos de su miseria tan a menudo como sea posible.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_psysucker">
+		<text>Psicovampiro</text>
+	</string>
+	<string id="encyclopedia_mutants_psysucker_text">
+		<text>
+			Los%c[pda_white]Psicovampiros%c[ui_gray_1] son las especies parientes de los chupasangres que poseen habilidades psнquicas ъnicas.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nOrigenes desconocidos. Los psicovampiros son una de las criaturas mбs misteriosas de la Zona. \nLos resultados de la autopsia mostraron muchas similitudes con los Chupasangres, especialmente con el camuflaje уptico que les permite hacerse temporalmente casi invisibles a simple vista. Por el contrario, estudios posteriores han demostrado que los Psicovampiros poseen un sistema nervioso desarrollado, a diferencia de sus parientes, lo que apunta a su capacidad ъnica de afectar la mente de los demбs, donde es capaz de crear imбgenes aparentemente vivas de sн mismo.\n \nLos Psicovampiros tienen una piel desgarrada y mбs dйbil en comparaciуn con sus parientes, como si estuvieran perdiendo su resistencia con el tiempo. Tambiйn carecen de los tentбculos que sobresalen de la cara de un Chupasangre junto con otros уrganos. Tal vez sea la razуn por la que los Psicovampiros se esconden mбs a menus mientras confнan en sus ataques psнquicos.\n \n%c[pda_blue]Estadisticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo, Psнquico\n-Salud: Baja\n-Velocidad: Rбpido\n-Rasgos: Camuflaje, Proyecciуn fantasma\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_mutants_lurker">
+		<text>Acechador</text>
+	</string>
+	<string id="encyclopedia_mutants_lurker_text">
+		<text>
+			El%c[pda_white]Acechador%c[ui_gray_1] es un mutante hнbrido con gran poder fнsico.\n \n%c[pda_green]Informaciуn%c[ui_gray_1] \nLos rumores dicen que los Acechadores fueron parte de un experimento que ocurriу en uno de los laboratorios ocultos alrededor de la Zona antes del segundo desastre. Sin embargo, la primera ola de Acechadores fue vista en el 2013, cerca de las afueras de Pripyat.\n \nSu fuerte piel con varias capas, su resistencia muscular anormal y su sentido del oнdo han hecho que los Acechadores tengan la capacidad de sobrevivir en las peores condiciones ambientales. Sus patas traseras les permiten saltar enormes distancias y golpear a sus vнctimas mбs lentas.\n \nSe sabe que los cazadores locales recogen los ojos de la criatura por su brillo amarilloso ъnico.\n \n%c[pda_blue]Estadнsticas%c[ui_gray_1] \n-Ataques: Cuerpo a cuerpo\n-Salud: Promedio\n-Velocidad: Rбpido\n-Rasgos: Ninguno\n
+		</text>
+	</string>
+	
+</string_table>
